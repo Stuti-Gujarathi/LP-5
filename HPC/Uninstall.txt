@@ -1,0 +1,3 @@
+sudo apt-get purge nvidia-cuda*
+sudo apt-get autoremove --purge 'nvidia-*'
+sudo reboot
